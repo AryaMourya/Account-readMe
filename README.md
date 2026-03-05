@@ -8,5 +8,5 @@ Driven first‑year Computer Science student building practical web projects to 
 - Recent project: Simple Python + HTML/CSS web app — (add repo link)
 - Goals: Complete focused projects, learn JavaScript, improve Git workflow
 
-Contact: https://github.com/AryaMourya · your-email@example.com
+Contact: https://github.com/AryaMourya · aryamourya0@gmail.com
 ```
