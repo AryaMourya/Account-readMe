@@ -1,12 +1,19 @@
-```markdown
-# Arya — First‑Year CS Student
 
-Driven first‑year Computer Science student, building practical web projects to learn software development.
+## Arya  — First‑Year CS Student
 
-- Focus: Python, HTML, CSS
-- Skills: Python · HTML · CSS · Git (basic)
-- Recent project: Simple Python + HTML/CSS web app — (add repo link)
-- Goals: Complete focused projects, learn JavaScript, improve Git workflow
+💻Computer science student
+Currently in my second year
+Created neural networks from scratch and made a tourism site
+Also consistent with DSA and open to open-source programs for contribution.
 
-Contact: https://github.com/AryaMourya · aryamourya0@gmail.com
+- Focus: Python, HTML5, CSS, Java, JavaScript, Python libraries (Numpy, Pandas) 
+- ✨Skills: Python · HTML · CSS · Git and Github 
+- 💡Recent project: Simple Python + HTML/CSS web app
+- 🎯Goals: Complete focused projects, learn JavaScript, improve Git workflow, contribute to open source  
+
+📚Contact: https://github.com/AryaMourya 
+
+📧Gmail:  aryamourya0@gmail.com
+
+🤝LinkedIn: www.linkedin.com/in/arya-mourya-a6a126316
 ```
